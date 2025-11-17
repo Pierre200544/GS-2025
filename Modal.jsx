@@ -3,8 +3,15 @@ import React, { useState } from "react";
 export default function Modal({ data, onClose }) {
   const [showRecommend, setShowRecommend] = useState(false);
   const [showChat, setShowChat] = useState(false);
+  const [sentMessage, setSentMessage] = useState(""); // feedback geral
 
   if (!data) return null;
+
+  // Função para exibir “Mensagem enviada!”
+  const showSent = (msg) => {
+    setSentMessage(msg);
+    setTimeout(() => setSentMessage(""), 2500);
+  };
 
   return (
     <div
@@ -15,13 +22,20 @@ export default function Modal({ data, onClose }) {
         className="bg-white dark:bg-gray-900 rounded-2xl shadow-xl max-w-xl w-full p-6 relative animate-fadeIn"
         onClick={(e) => e.stopPropagation()}
       >
-        {/* Botão Fechar */}
+        {/* Botão fechar */}
         <button
           onClick={onClose}
           className="absolute top-3 right-3 text-gray-600 dark:text-gray-300 hover:text-red-500 text-xl"
         >
           ✕
         </button>
+
+        {/* Feedback “Mensagem enviada!” */}
+        {sentMessage && (
+          <div className="absolute top-16 right-5 bg-green-600 text-white px-4 py-2 rounded-lg shadow-md animate-fadeIn">
+            {sentMessage}
+          </div>
+        )}
 
         {/* Cabeçalho */}
         <div className="flex gap-4 items-center">
@@ -42,7 +56,7 @@ export default function Modal({ data, onClose }) {
 
         <hr className="my-4 border-gray-300 dark:border-gray-700" />
 
-        {/* Habilidades */}
+        {/* Skills */}
         <h3 className="font-semibold text-lg dark:text-white">Habilidades Técnicas</h3>
         <div className="flex flex-wrap gap-2 mt-2">
           {data.habilidadesTecnicas.map((s, i) => (
@@ -79,7 +93,7 @@ export default function Modal({ data, onClose }) {
           </button>
         </div>
 
-        {/* POPUP de Recomendação */}
+        {/* POPUP: Recomendar profissional */}
         {showRecommend && (
           <div className="fixed inset-0 bg-black bg-opacity-60 flex items-center justify-center z-50">
             <div className="bg-white dark:bg-gray-900 p-6 rounded-xl w-96 shadow-xl">
@@ -87,6 +101,7 @@ export default function Modal({ data, onClose }) {
                 Recomendar {data.nome}
               </h2>
               <textarea
+                id="recommendText"
                 className="w-full p-2 rounded-lg border dark:bg-gray-800 dark:text-white"
                 rows="4"
                 placeholder="Escreva sua recomendação..."
@@ -98,7 +113,13 @@ export default function Modal({ data, onClose }) {
                 >
                   Cancelar
                 </button>
-                <button className="px-4 py-2 bg-green-600 rounded-lg text-white">
+                <button
+                  onClick={() => {
+                    setShowRecommend(false);
+                    showSent("Mensagem enviada!");
+                  }}
+                  className="px-4 py-2 bg-green-600 rounded-lg text-white"
+                >
                   Enviar
                 </button>
               </div>
@@ -106,7 +127,7 @@ export default function Modal({ data, onClose }) {
           </div>
         )}
 
-        {/* POPUP de Chat */}
+        {/* POPUP: Chat */}
         {showChat && (
           <div className="fixed inset-0 bg-black bg-opacity-60 flex items-center justify-center z-50">
             <div className="bg-white dark:bg-gray-900 p-6 rounded-xl w-96 shadow-xl flex flex-col">
@@ -120,11 +141,18 @@ export default function Modal({ data, onClose }) {
 
               <div className="flex gap-2">
                 <input
+                  id="chatInput"
                   type="text"
                   className="flex-1 p-2 border rounded-lg dark:bg-gray-800 dark:text-white"
                   placeholder="Digite sua mensagem..."
                 />
-                <button className="px-4 py-2 bg-blue-600 rounded-lg text-white">
+                <button
+                  onClick={() => {
+                    showSent("Mensagem enviada!");
+                    document.getElementById("chatInput").value = "";
+                  }}
+                  className="px-4 py-2 bg-blue-600 rounded-lg text-white"
+                >
                   Enviar
                 </button>
               </div>
