@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "nome": "Pablo Souza",
+    "foto": "/src/images/perfil23.png",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em modelagem de dados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "BI",
+    "habilidadesTecnicas": [
+      "Python",
+      "TypeScript",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 11",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "USP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Isabela Oliveira",
+    "foto": "/src/images/perfil25.png",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional com experiência em modelagem de dados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Data",
+    "habilidadesTecnicas": [
+      "Python",
+      "CSS",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Diego Costa",
+    "foto": "/src/images/perfil3.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em automação de infraestrutura.",
+    "localizacao": "Salvador/BA",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Node.js",
+      "HTML"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Mauricio Oliveira",
+    "foto": "/src/images/perfil21.png",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em modelagem de dados.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "CSS",
+      "Docker",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 3",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Eduardo Pereira",
+    "foto": "/src/images/perfil5.png",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em automação de infraestrutura.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "BI",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "TypeScript",
+      "Swift"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Rodrigo Pereira",
+    "foto": "/src/images/perfil6.png",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional com experiência em desenvolvimento web.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "React",
+      "C#",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Consultor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "Unicamp",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Fernando Silva",
+    "foto": "/src/images/perfil7.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Data",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "TypeScript",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 19",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Yasmin Oliveira",
+    "foto": "/src/images/perfil10.png",
+    "cargo": "Data Scientist",
+    "resumo": "Profissional com experiência em desenvolvimento web.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "C#",
+      "Swift"
+    ],
+    "softSkills": [
+      "Organização",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 13",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Aline Oliveira",
+    "foto": "/src/images/perfil32.png",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional com experiência em automação de infraestrutura.",
+    "localizacao": "São Paulo/SP",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "CSS",
+      "HTML",
+      "Terraform"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 8",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "USP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Larissa Costa",
+    "foto": "/src/images/perfil10.png",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "BI",
+    "habilidadesTecnicas": [
+      "React",
+      "HTML",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 7",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Bruno Lima",
+    "foto": "/src/images/perfil11.png",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional com experiência em automação de infraestrutura.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Terraform",
+      "C#",
+      "React Native"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 5",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Gustavo Pereira",
+    "foto": "/src/images/perfil12.png",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional com experiência em desenvolvimento web.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Terraform",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 18",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "USP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Wagner Silva",
+    "foto": "/src/images/perfil13.png",
+    "cargo": "Data Scientist",
+    "resumo": "Profissional com experiência em desenvolvimento web.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "BI",
+    "habilidadesTecnicas": [
+      "CSS",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Organização",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 10",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Patricia Costa",
+    "foto": "/src/images/perfil25.png",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em desenvolvimento web.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Terraform",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 17",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Julia Gomes",
+    "foto": "/src/images/perfil15.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em modelagem de dados.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Mobile",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "TypeScript",
+      "AWS"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 13",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "Unicamp",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Beatriz Costa",
+    "foto": "/src/images/perfil16.png",
+    "cargo": "Data Scientist",
+    "resumo": "Profissional com experiência em modelagem de dados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Terraform",
+      "Node.js",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 16",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Marcelo Oliveira",
+    "foto": "/src/images/perfil26.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "React",
+      "Python",
+      "Swift"
+    ],
+    "softSkills": [
+      "Organização",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 19",
+        "cargo": "Consultor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Hugo Silva",
+    "foto": "/src/images/perfil18.png",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "SQL",
+      "React Native",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 1",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Daniela Gomes",
+    "foto": "/src/images/perfil10.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em modelagem de dados.",
+    "localizacao": "Salvador/BA",
+    "area": "Qualidade",
+    "habilidadesTecnicas": [
+      "AWS",
+      "CSS",
+      "React Native"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 17",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "USP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Beatriz Gomes",
+    "foto": "/src/images/perfil32.png",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em desenvolvimento web.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Docker",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 18",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Matheus Souza",
+    "foto": "/src/images/perfil21.png",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "Salvador/BA",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Figma",
+      "CSS",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 16",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "Unicamp",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Leonardo Lima",
+    "foto": "/src/images/perfil22.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em desenvolvimento web.",
+    "localizacao": "São Paulo/SP",
+    "area": "BI",
+    "habilidadesTecnicas": [
+      "Swift",
+      "Machine Learning",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 9",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "USP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Julia Gomes",
+    "foto": "/src/images/perfil25.png",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Qualidade",
+    "habilidadesTecnicas": [
+      "Figma",
+      "CSS",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 3",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "Unicamp",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Beatriz Oliveira",
+    "foto": "/src/images/perfil24.png",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional com experiência em automação de infraestrutura.",
+    "localizacao": "Curitiba/PR",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "SQL",
+      "React",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "USP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Priscila Pereira",
+    "foto": "/src/images/perfil25.png",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "Curitiba/PR",
+    "area": "Mobile",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "C#",
+      "Terraform"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 16",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "André Almeida",
+    "foto": "/src/images/perfil26.png",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "Curitiba/PR",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "Docker",
+      "HTML",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 3",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Larissa Oliveira",
+    "foto": "/src/images/perfil10.png",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em automação de infraestrutura.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Docker",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 20",
+        "cargo": "Consultor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Daniela Oliveira",
+    "foto": "/src/images/perfil15.png",
+    "cargo": "Data Scientist",
+    "resumo": "Profissional com experiência em automação de infraestrutura.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Data",
+    "habilidadesTecnicas": [
+      "React",
+      "AWS",
+      "CSS"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 12",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Carla Almeida",
+    "foto": "/src/images/perfil10.png",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Mobile",
+    "habilidadesTecnicas": [
+      "Terraform",
+      "Machine Learning",
+      "CSS"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 17",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Bruno Silva",
+    "foto": "/src/images/perfil30.png",
+    "cargo": "Data Scientist",
+    "resumo": "Profissional com experiência em desenvolvimento web.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "CSS",
+      "Kotlin",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Organização",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 12",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "USP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Igor Oliveira",
+    "foto": "/src/images/perfil31.png",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em automação de infraestrutura.",
+    "localizacao": "São Paulo/SP",
+    "area": "Data",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "Figma",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 19",
+        "cargo": "Consultor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Wagner Lima",
+    "foto": "/src/images/perfil23.png",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em modelagem de dados.",
+    "localizacao": "Salvador/BA",
+    "area": "Qualidade",
+    "habilidadesTecnicas": [
+      "Python",
+      "Docker",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 15",
+        "cargo": "Consultor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Elaine Costa",
+    "foto": "/src/images/perfil10.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em desenvolvimento web.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "Swift"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 9",
+        "cargo": "Consultor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Cecilia Pereira",
+    "foto": "/src/images/perfil32.png",
+    "cargo": "Data Scientist",
+    "resumo": "Profissional com experiência em desenvolvimento web.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "React Native",
+      "SQL",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 13",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Cecilia Lima",
+    "foto": "/src/images/perfil15.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "HTML",
+      "Docker",
+      "React Native"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 15",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Fernando Pereira",
+    "foto": "/src/images/perfil23.png",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional com experiência em desenvolvimento web.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "C#",
+      "React"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 18",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Beatriz Oliveira",
+    "foto": "/src/images/perfil10.png",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional com experiência em automação de infraestrutura.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "Kotlin",
+      "Machine Learning",
+      "Pandas"
+    ],
+    "softSkills": [
+      "Organização",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 12",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "USP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Larissa Costa",
+    "foto": "/src/images/perfil32.png",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em automação de infraestrutura.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "BI",
+    "habilidadesTecnicas": [
+      "SQL",
+      "CSS",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 19",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Igor Almeida",
+    "foto": "/src/images/perfil9.png",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "São Paulo/SP",
+    "area": "Mobile",
+    "habilidadesTecnicas": [
+      "Terraform",
+      "Swift",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 6",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "USP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Murilo Lima",
+    "foto": "/src/images/perfil27.png",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Pandas",
+      "AWS",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 14",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "Unicamp",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Murilo Oliveira",
+    "foto": "/src/images/perfil22.png",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional com experiência em modelagem de dados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Mobile",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "Terraform"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 8",
+        "cargo": "Consultor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Pedro Oliveira",
+    "foto": "/src/images/perfil23.png",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em desenvolvimento web.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "BI",
+    "habilidadesTecnicas": [
+      "React",
+      "C#",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 13",
+        "cargo": "Consultor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "USP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Paula Silva",
+    "foto": "/src/images/perfil15.png",
+    "cargo": "Data Scientist",
+    "resumo": "Profissional com experiência em modelagem de dados.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Machine Learning",
+      "AWS"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 8",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Beatriz Souza",
+    "foto": "/src/images/perfil10.png",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em modelagem de dados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Swift",
+      "C#"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 19",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Ricardo Almeida",
+    "foto": "/src/images/perfil9.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em modelagem de dados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "Tailwind",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 5",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "USP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Camila Silva",
+    "foto": "/src/images/perfil15.png",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "Salvador/BA",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "SQL",
+      "C#",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 5",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Diego Lima",
+    "foto": "/src/images/perfil22.png",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "C#",
+      "Tailwind",
+      "SQL"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 6",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "André Pereira",
+    "foto": "/src/images/perfil30.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Python",
+      "Kubernetes",
+      "SQL"
+    ],
+    "softSkills": [
+      "Organização",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 11",
+        "cargo": "Consultor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "Unicamp",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Larissa Costa",
+    "foto": "/src/images/perfil32.png",
+    "cargo": "Data Scientist",
+    "resumo": "Profissional com experiência em modelagem de dados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Kotlin",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 7",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "USP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Eduardo Silva",
+    "foto": "/src/images/perfil9.png",
+    "cargo": "Product Manager",
+    "resumo": "Profissional com experiência em automação de infraestrutura.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "JavaScript",
+      "HTML"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 17",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "USP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Camila Pereira",
+    "foto": "/src/images/perfil10.png",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Mobile",
+    "habilidadesTecnicas": [
+      "Python",
+      "AWS",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Mauricio Almeida",
+    "foto": "/src/images/perfil23.png",
+    "cargo": "Data Scientist",
+    "resumo": "Profissional com experiência em desenvolvimento web.",
+    "localizacao": "São Paulo/SP",
+    "area": "Mobile",
+    "habilidadesTecnicas": [
+      "Kotlin",
+      "Node.js",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 4",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Lucas Gomes",
+    "foto": "/src/images/perfil28.png",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em desenvolvimento web.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Qualidade",
+    "habilidadesTecnicas": [
+      "Python",
+      "Terraform",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 16",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Amanda Souza",
+    "foto": "/src/images/perfil15.png",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "São Paulo/SP",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Docker",
+      "Figma"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 15",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "Unicamp",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Ana Silva",
+    "foto": "/src/images/perfil10.png",
+    "cargo": "Data Scientist",
+    "resumo": "Profissional com experiência em desenvolvimento web.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "Tailwind",
+      "CSS"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 17",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "Unicamp",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Rodrigo Costa",
+    "foto": "/src/images/perfil9.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "Salvador/BA",
+    "area": "Qualidade",
+    "habilidadesTecnicas": [
+      "Pandas",
+      "Python",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 7",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Felipe Costa",
+    "foto": "/src/images/perfil11.png",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com experiência em modelagem de dados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "React Native",
+      "JavaScript",
+      "HTML"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 3",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Pablo Souza",
+    "foto": "/src/images/perfil9.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em design de interfaces.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Tailwind",
+      "Kotlin",
+      "Docker"
+    ],
+    "softSkills": [
+      "Organização",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 2",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "PUC",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Beatriz Costa",
+    "foto": "/src/images/perfil32.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional com experiência em modelagem de dados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Mobile",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Pandas",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 13",
+        "cargo": "Engenheiro",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "Unicamp",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Carla Oliveira",
+    "foto": "/src/images/perfil15.png",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional com experiência em desenvolvimento web.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "BI",
+    "habilidadesTecnicas": [
+      "HTML",
+      "Swift",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa 17",
+        "cargo": "Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos diversos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Ciência da Computação",
+        "instituicao": "Unicamp",
+        "inicio": "2018",
+        "fim": "2022"
+      }
+    ]
+  }
+]
